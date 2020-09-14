@@ -15,7 +15,7 @@ public class FriendNumbers {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int number1 = 221;
+        int number1 = 220;
         int number2 = 284;
         int sum1 = 0;
         int sum2 = 0;
