@@ -1,2 +1,2 @@
 # Java-MIX
-base examples for beginner JAVA student
+base examples for beginner JAVA 
